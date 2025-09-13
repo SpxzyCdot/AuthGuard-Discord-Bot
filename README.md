@@ -1,9 +1,15 @@
 # Features : 
+
 /blacklistkey
+
 /createkey
+
 /createpremiumkey
+
 /resethwid
+
 /whitelistkey
+
 /help (for more information about the features)
 
 # Documentation
