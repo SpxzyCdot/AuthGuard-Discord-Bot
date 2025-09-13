@@ -13,7 +13,6 @@
 /help (for more information about the features)
 
 # TUTORIAL TO SETUP 
-# Documentation
 
 # How to get Bot Token
 1) Select your discord Bot : https://discord.com/developers/applications
