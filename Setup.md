@@ -1,23 +1,15 @@
 # Features : 
-
+```
 /blacklistkey
-
 /createkey
-
 /createpremiumkey
-
 /resethwid
-
 /whitelistkey
-
 /getkeysjson
-
 /getkeyid
-
 /getkeyinfo
-
 /iskeyexpired
-
+```
 /help (for more information about the features)
 
 # TUTORIAL TO SETUP 
