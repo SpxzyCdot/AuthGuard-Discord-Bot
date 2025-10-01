@@ -39,5 +39,7 @@ Exemple API Key : "e4a1c342e7a64f48b5e5cb2d0ed8d2f6" (this is not a working API 
 # Any Issues?
 Let me Know by DM'ing me on Discord! @spxzycdot
 
-# Request
+# Feedback
+If you want to see more features lmk! : @spxzycdot (discord)
+
 To support me, please do not remove my promotions (when executing a visible command, it will promote/give credits to me
