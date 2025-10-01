@@ -1,1 +1,3 @@
 pip install discord.py requests
+
+run the code above in CMD (Windows + R < "CMD" < Enter < Paste Text Above)
