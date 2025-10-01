@@ -10,7 +10,7 @@ Authguard offers alot of features
 
 and more
 
-# Why do i do this?
+# Why did i made this?
 Ive seen plenty of people begging for a Discord bot for their Key System
 
 While i have seen that there wasn't a discord bot, i have learned that you can make a discord bot for AuthGuard using Python and Network Requests
