@@ -16,3 +16,6 @@ Ive seen plenty of people begging for a Discord bot for their Key System
 While i have seen that there wasn't a discord bot, i have learned that you can make a discord bot for AuthGuard using Python and Network Requests
 
 I have then worked my way into making this open sourced discord bot for the public to see
+
+# How to use the Bot?
+Just go to the Setup.md file and learn how to setup the Bot Source easily in just a few minutes
